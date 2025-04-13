@@ -1,0 +1,13 @@
+[
+  {"id":"1","title":"Geometry of Linear Equations","description":"Solutions as intersections of planes","components":["MatrixVisualizer"]},
+  {"id":"2","title":"Elimination with Matrices","description":"Gaussian elimination step-by-step","components":["MatrixVisualizer"]},
+  {"id":"3","title":"Matrix Multiplication & Inverses","description":"Understanding products and inverses","components":["MatrixVisualizer"]},
+  {"id":"4","title":"LU Factorization","description":"Decompose A = LU","components":["MatrixVisualizer"]},
+  {"id":"5","title":"Subspaces of R^n","description":"Column, null, row spaces","components":["VectorFieldVisualizer"]},
+  {"id":"6","title":"Four Fundamental Subspaces","description":"Dimensionality and orthogonality","components":["OrthogonalityDemo"]},
+  {"id":"7","title":"Determinants","description":"Volume and cofactor expansion","components":["MatrixVisualizer"]},
+  {"id":"8","title":"Eigenvalues & Eigenvectors","description":"Characteristic equations","components":["EigenDemo"]},
+  {"id":"9","title":"Diagonalization","description":"PDP^{-1} and powers of A","components":["EigenDemo"]},
+  {"id":"10","title":"Differential Equations","description":"Solve x' = Ax","components":["DifferentialSolver"]},
+  {"id":"11","title":"Markov Chains","description":"Probability transitions","components":["MarkovChainSimulator"]}
+]
